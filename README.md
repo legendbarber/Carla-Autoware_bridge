@@ -61,8 +61,9 @@ source "$(pwd)/msg_ws/install/local_setup.bash"
 source "$(pwd)/deps_ws/install/local_setup.bash"
 source "$(pwd)/bridge_ws/install/local_setup.bash"
 source "$(pwd)/autoware_carla_interface/install/local_setup.bash"
-ros2 launch carla_interface_with_preprocessor.launch.py
-
+ros2 launch carla_interface_with_preprocessor.launch.py \
+  vehicle_type:=vehicle.futuredrive.mkmini \
+  carla_map:=parkinglot2
 # terminal 3 : 첫번째 브릿지(변환) 코드 실행
 cd /path/to/Carla-autoware_interface
 source "$(pwd)/msg_ws/install/local_setup.bash"
