@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/build/autoware_auto_mapping_msgs/rosidl_generator_py/autoware_auto_mapping_msgs/__init__.py

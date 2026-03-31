@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_planning_msgs/rosidl_generator_py/autoware_planning_msgs/msg/_lanelet_primitive_s.c

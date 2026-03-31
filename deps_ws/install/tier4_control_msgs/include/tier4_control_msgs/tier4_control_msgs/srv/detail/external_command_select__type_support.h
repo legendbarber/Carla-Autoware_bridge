@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/tier4_control_msgs/rosidl_generator_c/tier4_control_msgs/srv/detail/external_command_select__type_support.h

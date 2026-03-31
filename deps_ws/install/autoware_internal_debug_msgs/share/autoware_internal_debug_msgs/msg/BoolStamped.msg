@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/src/autoware_internal_msgs/autoware_internal_debug_msgs/msg/BoolStamped.msg

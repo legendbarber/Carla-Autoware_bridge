@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/src/autoware_utils/autoware_utils_uuid/include/autoware_utils_uuid/uuid_helper.hpp

@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_internal_debug_msgs/rosidl_generator_c/autoware_internal_debug_msgs/srv/detail/string__type_support.h

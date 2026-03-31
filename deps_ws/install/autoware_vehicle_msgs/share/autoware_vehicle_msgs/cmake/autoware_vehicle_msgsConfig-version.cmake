@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_vehicle_msgs/ament_cmake_core/autoware_vehicle_msgsConfig-version.cmake

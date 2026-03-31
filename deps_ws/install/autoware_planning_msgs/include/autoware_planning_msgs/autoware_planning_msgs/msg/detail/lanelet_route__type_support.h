@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_planning_msgs/rosidl_generator_c/autoware_planning_msgs/msg/detail/lanelet_route__type_support.h

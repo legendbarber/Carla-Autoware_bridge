@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_perception_msgs/rosidl_typesupport_fastrtps_cpp/autoware_perception_msgs/msg/detail/tracked_objects__rosidl_typesupport_fastrtps_cpp.hpp

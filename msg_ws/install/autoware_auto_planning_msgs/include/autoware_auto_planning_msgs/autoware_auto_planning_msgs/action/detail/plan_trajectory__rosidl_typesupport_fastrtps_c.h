@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/build/autoware_auto_planning_msgs/rosidl_typesupport_fastrtps_c/autoware_auto_planning_msgs/action/detail/plan_trajectory__rosidl_typesupport_fastrtps_c.h

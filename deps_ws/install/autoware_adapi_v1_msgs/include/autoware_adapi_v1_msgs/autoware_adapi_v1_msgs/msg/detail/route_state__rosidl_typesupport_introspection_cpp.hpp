@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_adapi_v1_msgs/rosidl_typesupport_introspection_cpp/autoware_adapi_v1_msgs/msg/detail/route_state__rosidl_typesupport_introspection_cpp.hpp

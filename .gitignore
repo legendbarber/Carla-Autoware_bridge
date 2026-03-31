@@ -1,1 +1,22 @@
 /__pycache__/
+*.py[cod]
+
+# Python caches
+**/__pycache__/
+
+# ROS/colcon generated directories
+/autoware_carla_interface/build/
+/autoware_carla_interface/install/
+/autoware_carla_interface/log/
+/bridge_ws/build/
+/bridge_ws/install/
+/bridge_ws/log/
+/deps_ws/build/
+/deps_ws/install/
+/deps_ws/log/
+/msg_ws/build/
+/msg_ws/install/
+/msg_ws/log/
+
+# Common editor/system noise
+.DS_Store

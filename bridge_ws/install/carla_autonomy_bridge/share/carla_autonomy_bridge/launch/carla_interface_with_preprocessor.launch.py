@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/bridge_ws/build/carla_autonomy_bridge/launch/carla_interface_with_preprocessor.launch.py

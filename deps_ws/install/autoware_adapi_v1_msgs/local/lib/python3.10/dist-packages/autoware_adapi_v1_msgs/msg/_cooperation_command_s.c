@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_adapi_v1_msgs/rosidl_generator_py/autoware_adapi_v1_msgs/msg/_cooperation_command_s.c

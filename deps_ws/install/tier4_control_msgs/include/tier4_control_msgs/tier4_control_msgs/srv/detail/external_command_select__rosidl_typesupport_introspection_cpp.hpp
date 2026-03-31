@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/tier4_control_msgs/rosidl_typesupport_introspection_cpp/tier4_control_msgs/srv/detail/external_command_select__rosidl_typesupport_introspection_cpp.hpp

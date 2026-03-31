@@ -1,1 +1,0 @@
-ament_cmake_symlink_install_targets("TARGET_FILES" "/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_crop_box_filter/libcrop_box_filter_node.so" "TARGETS" "crop_box_filter_node" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

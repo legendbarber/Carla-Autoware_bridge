@@ -1,6 +1,0 @@
-{
-  "package_name": "autoware_common_msgs",
-  "non_idl_tuples": [
-    "/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/src/autoware_msgs/autoware_common_msgs:msg/ResponseStatus.msg"
-  ]
-}

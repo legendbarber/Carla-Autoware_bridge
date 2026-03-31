@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_internal_debug_msgs/rosidl_generator_cpp/autoware_internal_debug_msgs/msg/detail/float32_stamped__builder.hpp

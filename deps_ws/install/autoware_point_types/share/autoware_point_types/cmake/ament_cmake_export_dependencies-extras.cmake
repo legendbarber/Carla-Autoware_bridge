@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_point_types/ament_cmake_export_dependencies/ament_cmake_export_dependencies-extras.cmake

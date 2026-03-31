@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/build/autoware_auto_planning_msgs/rosidl_typesupport_introspection_cpp/autoware_auto_planning_msgs/srv/detail/modify_trajectory__rosidl_typesupport_introspection_cpp.hpp

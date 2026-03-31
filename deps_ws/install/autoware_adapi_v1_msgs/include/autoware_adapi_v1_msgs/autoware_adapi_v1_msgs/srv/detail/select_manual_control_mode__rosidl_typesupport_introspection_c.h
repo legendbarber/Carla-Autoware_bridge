@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_adapi_v1_msgs/rosidl_typesupport_introspection_c/autoware_adapi_v1_msgs/srv/detail/select_manual_control_mode__rosidl_typesupport_introspection_c.h

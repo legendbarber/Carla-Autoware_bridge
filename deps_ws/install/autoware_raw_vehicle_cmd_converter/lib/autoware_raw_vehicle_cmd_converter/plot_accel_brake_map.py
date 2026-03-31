@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/src/autoware_raw_vehicle_cmd_converter/scripts/plot_accel_brake_map.py

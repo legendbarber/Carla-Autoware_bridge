@@ -1,5 +1,0 @@
-std_msgs/Header header
-geometry_msgs/Pose goal_pose
-geometry_msgs/Pose[] waypoints
-unique_identifier_msgs/UUID uuid
-bool allow_modification

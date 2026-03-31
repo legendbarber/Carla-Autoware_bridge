@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/bridge_ws/build/carla_autoware_type_bridge/ament_cmake_environment_hooks/local_setup.sh

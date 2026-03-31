@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_crop_box_filter/ament_cmake_core/autoware_crop_box_filterConfig-version.cmake

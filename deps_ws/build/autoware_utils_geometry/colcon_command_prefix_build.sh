@@ -1,9 +1,0 @@
-# generated from colcon_core/shell/template/command_prefix.sh.em
-. "/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_common_msgs/share/autoware_common_msgs/package.sh"
-. "/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_lint_common/share/autoware_lint_common/package.sh"
-. "/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_perception_msgs/share/autoware_perception_msgs/package.sh"
-. "/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_cmake/share/autoware_cmake/package.sh"
-. "/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_planning_msgs/share/autoware_planning_msgs/package.sh"
-. "/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_internal_planning_msgs/share/autoware_internal_planning_msgs/package.sh"
-. "/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_math/share/autoware_utils_math/package.sh"
-. "/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_system/share/autoware_utils_system/package.sh"

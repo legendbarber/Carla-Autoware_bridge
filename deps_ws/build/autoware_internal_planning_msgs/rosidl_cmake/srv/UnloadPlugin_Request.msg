@@ -1,2 +1,0 @@
-# Fully qualified plugin name to unload
-string plugin_name

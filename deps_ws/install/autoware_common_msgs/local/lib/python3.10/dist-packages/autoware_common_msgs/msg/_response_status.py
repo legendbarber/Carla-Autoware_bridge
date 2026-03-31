@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_common_msgs/rosidl_generator_py/autoware_common_msgs/msg/_response_status.py

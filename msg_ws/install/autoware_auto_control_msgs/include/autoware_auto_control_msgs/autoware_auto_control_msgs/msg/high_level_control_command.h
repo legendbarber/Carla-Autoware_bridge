@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/build/autoware_auto_control_msgs/rosidl_generator_c/autoware_auto_control_msgs/msg/high_level_control_command.h

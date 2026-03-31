@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/tier4_vehicle_msgs/rosidl_generator_c/tier4_vehicle_msgs/msg/detail/vehicle_emergency_stamped__type_support.h

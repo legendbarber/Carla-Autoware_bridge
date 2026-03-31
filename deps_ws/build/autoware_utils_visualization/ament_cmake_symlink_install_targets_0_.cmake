@@ -1,1 +1,0 @@
-ament_cmake_symlink_install_targets("TARGET_FILES" "/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_utils_visualization/libautoware_utils_visualization.so" "TARGETS" "autoware_utils_visualization" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

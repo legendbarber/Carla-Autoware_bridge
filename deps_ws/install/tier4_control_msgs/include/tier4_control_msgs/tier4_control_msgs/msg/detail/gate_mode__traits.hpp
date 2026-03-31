@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/tier4_control_msgs/rosidl_generator_cpp/tier4_control_msgs/msg/detail/gate_mode__traits.hpp

@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/src/autoware_msgs/autoware_planning_msgs/msg/LaneletPrimitive.msg

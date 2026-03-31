@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_internal_msgs/rosidl_typesupport_introspection_c/autoware_internal_msgs/msg/detail/mission_remaining_distance_time__rosidl_typesupport_introspection_c.h

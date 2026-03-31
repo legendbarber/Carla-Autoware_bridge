@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_common_msgs/rosidl_typesupport_fastrtps_c/autoware_common_msgs/msg/detail/response_status__rosidl_typesupport_fastrtps_c.h

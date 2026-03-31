@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_planning_msgs/rosidl_generator_cpp/autoware_planning_msgs/msg/trajectory_point.hpp

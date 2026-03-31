@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_internal_perception_msgs/rosidl_generator_py/autoware_internal_perception_msgs/msg/_segmentation_mask_s.c

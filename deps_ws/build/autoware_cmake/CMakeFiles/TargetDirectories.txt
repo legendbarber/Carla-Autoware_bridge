@@ -1,8 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_cmake/CMakeFiles/uninstall.dir
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_cmake/CMakeFiles/autoware_cmake_uninstall.dir
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_cmake/CMakeFiles/test.dir
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_cmake/CMakeFiles/edit_cache.dir
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_cmake/CMakeFiles/rebuild_cache.dir
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_cmake/CMakeFiles/list_install_components.dir
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_cmake/CMakeFiles/install.dir
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_cmake/CMakeFiles/install/local.dir

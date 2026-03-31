@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_internal_debug_msgs/rosidl_generator_py/autoware_internal_debug_msgs/msg/_int32_multi_array_stamped.py

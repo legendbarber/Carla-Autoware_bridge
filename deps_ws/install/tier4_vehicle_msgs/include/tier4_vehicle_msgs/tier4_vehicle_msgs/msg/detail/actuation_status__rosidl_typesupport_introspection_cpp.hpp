@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/tier4_vehicle_msgs/rosidl_typesupport_introspection_cpp/tier4_vehicle_msgs/msg/detail/actuation_status__rosidl_typesupport_introspection_cpp.hpp

@@ -1,2 +1,0 @@
-# Fully qualified plugin name to load (e.g., "package::PluginClass")
-string plugin_name

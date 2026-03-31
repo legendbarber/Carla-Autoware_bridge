@@ -1,1 +1,0 @@
-/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/build/autoware_auto_perception_msgs/rosidl_generator_c/autoware_auto_perception_msgs/msg/detail/shape__type_support.h
