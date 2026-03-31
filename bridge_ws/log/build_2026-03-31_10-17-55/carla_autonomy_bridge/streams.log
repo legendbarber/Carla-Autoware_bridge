@@ -1,0 +1,18 @@
+[0.666s] Invoking command in '/mnt/hdd/autonomy/ws/Carla-autoware_interface/bridge_ws/build/carla_autonomy_bridge': PYTHONPATH=/mnt/hdd/autonomy/ws/Carla-autoware_interface/bridge_ws/build/carla_autonomy_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/hdd/autonomy/ws/Carla-autoware_interface/bridge_ws/install/carla_autonomy_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /mnt/hdd/autonomy/ws/Carla-autoware_interface/bridge_ws/build/carla_autonomy_bridge/build --no-deps symlink_data
+[0.933s] running develop
+[1.129s] running egg_info
+[1.130s] writing carla_autonomy_bridge.egg-info/PKG-INFO
+[1.130s] writing dependency_links to carla_autonomy_bridge.egg-info/dependency_links.txt
+[1.130s] writing entry points to carla_autonomy_bridge.egg-info/entry_points.txt
+[1.130s] writing requirements to carla_autonomy_bridge.egg-info/requires.txt
+[1.130s] writing top-level names to carla_autonomy_bridge.egg-info/top_level.txt
+[1.131s] reading manifest file 'carla_autonomy_bridge.egg-info/SOURCES.txt'
+[1.132s] writing manifest file 'carla_autonomy_bridge.egg-info/SOURCES.txt'
+[1.166s] running build_ext
+[1.166s] Creating /mnt/hdd/autonomy/ws/Carla-autoware_interface/bridge_ws/install/carla_autonomy_bridge/lib/python3.10/site-packages/carla-autonomy-bridge.egg-link (link to .)
+[1.167s] Installing imu_relay script to /mnt/hdd/autonomy/ws/Carla-autoware_interface/bridge_ws/install/carla_autonomy_bridge/lib/carla_autonomy_bridge
+[1.167s] Installing pointcloud_relay script to /mnt/hdd/autonomy/ws/Carla-autoware_interface/bridge_ws/install/carla_autonomy_bridge/lib/carla_autonomy_bridge
+[1.167s] 
+[1.167s] Installed /mnt/hdd/autonomy/ws/Carla-autoware_interface/bridge_ws/build/carla_autonomy_bridge
+[1.167s] running symlink_data
+[1.195s] Invoked command in '/mnt/hdd/autonomy/ws/Carla-autoware_interface/bridge_ws/build/carla_autonomy_bridge' returned '0': PYTHONPATH=/mnt/hdd/autonomy/ws/Carla-autoware_interface/bridge_ws/build/carla_autonomy_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/hdd/autonomy/ws/Carla-autoware_interface/bridge_ws/install/carla_autonomy_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /mnt/hdd/autonomy/ws/Carla-autoware_interface/bridge_ws/build/carla_autonomy_bridge/build --no-deps symlink_data

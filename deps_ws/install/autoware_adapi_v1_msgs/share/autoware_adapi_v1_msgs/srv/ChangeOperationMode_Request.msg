@@ -1,0 +1,1 @@
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_adapi_v1_msgs/rosidl_cmake/operation_mode/srv/ChangeOperationMode_Request.msg

@@ -1,0 +1,1 @@
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/src/autoware_msgs/autoware_perception_msgs/msg/TrackedObjectKinematics.msg

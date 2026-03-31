@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-e1887da6aedb0e898af6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "carla_autoware_type_bridge",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_autoware_type_bridge_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_autoware_type_bridge_uninstall-53d588604c07c17575a4.json",
+					"name" : "carla_autoware_type_bridge_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "control_cmd_bridge_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-control_cmd_bridge_node-90ffce2fa72345e3b695.json",
+					"name" : "control_cmd_bridge_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-c128ec50618b2a56aa4d.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vehicle_status_bridge_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vehicle_status_bridge_node-782cec5f899b1855d999.json",
+					"name" : "vehicle_status_bridge_node",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/hdd/autonomy/ws/Carla-autoware_interface/bridge_ws/build/carla_autoware_type_bridge",
+		"source" : "/mnt/hdd/autonomy/ws/Carla-autoware_interface/bridge_ws/src/carla_autoware_type_bridge"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

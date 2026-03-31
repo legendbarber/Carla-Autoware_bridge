@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_utils_geometry/libautoware_utils_geometry.so" "TARGETS" "autoware_utils_geometry" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

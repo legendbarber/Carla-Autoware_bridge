@@ -1,0 +1,9 @@
+{
+  "package_name": "autoware_control_msgs",
+  "non_idl_tuples": [
+    "/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/src/autoware_msgs/autoware_control_msgs:msg/Control.msg",
+    "/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/src/autoware_msgs/autoware_control_msgs:msg/ControlHorizon.msg",
+    "/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/src/autoware_msgs/autoware_control_msgs:msg/Lateral.msg",
+    "/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/src/autoware_msgs/autoware_control_msgs:msg/Longitudinal.msg"
+  ]
+}

@@ -1,0 +1,1 @@
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_common_msgs/rosidl_generator_c/autoware_common_msgs/msg/detail/response_status__struct.h

@@ -1,0 +1,1 @@
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/src/autoware_utils/autoware_utils_geometry/include/autoware_utils_geometry/ear_clipping.hpp

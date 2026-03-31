@@ -1,0 +1,31 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from autoware_internal_msgs/msg/ResourceUsageReport.msg
+// generated code does not contain a copyright notice
+
+#include "std_msgs/msg/Header.idl"
+
+module autoware_internal_msgs {
+  module msg {
+    struct ResourceUsageReport {
+      std_msgs::msg::Header header;
+
+      @verbatim (language="comment", text=
+        "Process identifier")
+      uint32 pid;
+
+      @verbatim (language="comment", text=
+        "CPU usage of the process")
+      float cpu_cores_utilized;
+
+      @verbatim (language="comment", text=
+        "Memory usage metrics for the whole system")
+      uint64 total_memory_bytes;
+
+      uint64 free_memory_bytes;
+
+      @verbatim (language="comment", text=
+        "Memory used by the process")
+      uint64 process_memory_bytes;
+    };
+  };
+};

@@ -1,0 +1,1 @@
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/src/autoware_internal_msgs/autoware_internal_metric_msgs/msg/MetricArray.msg

@@ -1,0 +1,85 @@
+The MPI test test_mpi for C in mode normal failed to compile with the following output:
+Change Dir: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_raw_vehicle_cmd_converter/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_5c06d/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_5c06d.dir/build.make CMakeFiles/cmTC_5c06d.dir/build
+gmake[1]: Entering directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_raw_vehicle_cmd_converter/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5c06d.dir/test_mpi.c.o
+/usr/lib/ccache/gcc  -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi  -o CMakeFiles/cmTC_5c06d.dir/test_mpi.c.o -c /usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c
+/usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c:1:10: fatal error: mpi.h: No such file or directory
+    1 | #include <mpi.h>
+      |          ^~~~~~~
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_5c06d.dir/build.make:78: CMakeFiles/cmTC_5c06d.dir/test_mpi.c.o] Error 1
+gmake[1]: Leaving directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_raw_vehicle_cmd_converter/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_5c06d/fast] Error 2
+
+
+
+The MPI test test_mpi for C in mode normal failed to compile with the following output:
+Change Dir: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_raw_vehicle_cmd_converter/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_ba1c4/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_ba1c4.dir/build.make CMakeFiles/cmTC_ba1c4.dir/build
+gmake[1]: Entering directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_raw_vehicle_cmd_converter/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ba1c4.dir/test_mpi.c.o
+/usr/lib/ccache/gcc  -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi  -o CMakeFiles/cmTC_ba1c4.dir/test_mpi.c.o -c /usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c
+/usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c:1:10: fatal error: mpi.h: No such file or directory
+    1 | #include <mpi.h>
+      |          ^~~~~~~
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_ba1c4.dir/build.make:78: CMakeFiles/cmTC_ba1c4.dir/test_mpi.c.o] Error 1
+gmake[1]: Leaving directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_raw_vehicle_cmd_converter/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_ba1c4/fast] Error 2
+
+
+
+The MPI test test_mpi for C in mode normal failed to compile with the following output:
+Change Dir: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_raw_vehicle_cmd_converter/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_2193d/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_2193d.dir/build.make CMakeFiles/cmTC_2193d.dir/build
+gmake[1]: Entering directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_raw_vehicle_cmd_converter/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2193d.dir/test_mpi.c.o
+/usr/lib/ccache/gcc  -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi  -o CMakeFiles/cmTC_2193d.dir/test_mpi.c.o -c /usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c
+/usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c:1:10: fatal error: mpi.h: No such file or directory
+    1 | #include <mpi.h>
+      |          ^~~~~~~
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_2193d.dir/build.make:78: CMakeFiles/cmTC_2193d.dir/test_mpi.c.o] Error 1
+gmake[1]: Leaving directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_raw_vehicle_cmd_converter/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_2193d/fast] Error 2
+
+
+
+The MPI test test_mpi for C in mode normal failed to compile with the following output:
+Change Dir: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_raw_vehicle_cmd_converter/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_ed030/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_ed030.dir/build.make CMakeFiles/cmTC_ed030.dir/build
+gmake[1]: Entering directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_raw_vehicle_cmd_converter/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ed030.dir/test_mpi.c.o
+/usr/lib/ccache/gcc  -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi  -o CMakeFiles/cmTC_ed030.dir/test_mpi.c.o -c /usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c
+/usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c:1:10: fatal error: mpi.h: No such file or directory
+    1 | #include <mpi.h>
+      |          ^~~~~~~
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_ed030.dir/build.make:78: CMakeFiles/cmTC_ed030.dir/test_mpi.c.o] Error 1
+gmake[1]: Leaving directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_raw_vehicle_cmd_converter/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_ed030/fast] Error 2
+
+
+
+The MPI test test_mpi for C in mode normal failed to compile with the following output:
+Change Dir: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_raw_vehicle_cmd_converter/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_98793/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_98793.dir/build.make CMakeFiles/cmTC_98793.dir/build
+gmake[1]: Entering directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_raw_vehicle_cmd_converter/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_98793.dir/test_mpi.c.o
+/usr/lib/ccache/gcc  -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi  -o CMakeFiles/cmTC_98793.dir/test_mpi.c.o -c /usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c
+/usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c:1:10: fatal error: mpi.h: No such file or directory
+    1 | #include <mpi.h>
+      |          ^~~~~~~
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_98793.dir/build.make:78: CMakeFiles/cmTC_98793.dir/test_mpi.c.o] Error 1
+gmake[1]: Leaving directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_raw_vehicle_cmd_converter/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_98793/fast] Error 2
+
+
+

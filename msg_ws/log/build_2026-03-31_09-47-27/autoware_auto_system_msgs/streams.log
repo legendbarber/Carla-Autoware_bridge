@@ -1,0 +1,355 @@
+[0.041s] Invoking command in '/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/build/autoware_auto_system_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/src/autoware_auto_msgs/autoware_auto_system_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs
+[0.307s] -- The C compiler identification is GNU 11.4.0
+[0.502s] -- The CXX compiler identification is GNU 11.4.0
+[0.564s] -- Detecting C compiler ABI info
+[0.970s] -- Detecting C compiler ABI info - done
+[0.987s] -- Check for working C compiler: /usr/lib/ccache/gcc - skipped
+[0.987s] -- Detecting C compile features
+[0.988s] -- Detecting C compile features - done
+[0.992s] -- Detecting CXX compiler ABI info
+[1.331s] -- Detecting CXX compiler ABI info - done
+[1.343s] -- Check for working CXX compiler: /usr/lib/ccache/g++ - skipped
+[1.344s] -- Detecting CXX compile features
+[1.344s] -- Detecting CXX compile features - done
+[1.347s] -- Found ament_cmake_auto: 1.3.12 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[1.794s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.915s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.077s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.084s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.197s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.490s] -- Found ament_cmake_cppcheck: 0.12.14 (/opt/ros/humble/share/ament_cmake_cppcheck/cmake)
+[2.494s] -- Found ament_cmake_cpplint: 0.12.14 (/opt/ros/humble/share/ament_cmake_cpplint/cmake)
+[2.498s] -- Found ament_cmake_uncrustify: 0.12.14 (/opt/ros/humble/share/ament_cmake_uncrustify/cmake)
+[2.502s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[3.001s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.662s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.742s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[3.744s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[3.811s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[3.812s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.812s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[3.812s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[3.896s] -- Found PythonExtra: .so  
+[4.002s] -- Found ament_cmake_flake8: 0.12.14 (/opt/ros/humble/share/ament_cmake_flake8/cmake)
+[4.009s] -- Found ament_cmake_pep257: 0.12.14 (/opt/ros/humble/share/ament_cmake_pep257/cmake)
+[4.022s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[4.032s] -- Added test 'copyright' to check source files copyright and LICENSE
+[4.033s] -- Added test 'lint_cmake' to check CMake code style
+[4.035s] -- Added test 'xmllint' to check XML markup files
+[4.040s] -- Configuring done
+[4.105s] -- Generating done
+[4.122s] -- Build files have been written to: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/build/autoware_auto_system_msgs
+[4.204s] Invoked command in '/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/build/autoware_auto_system_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/src/autoware_auto_msgs/autoware_auto_system_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs
+[4.210s] Invoking command in '/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/build/autoware_auto_system_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/build/autoware_auto_system_msgs -- -j16 -l16
+[4.595s] [  1%] Generating C++ code for ROS interfaces
+[8.190s] [  1%] Built target autoware_auto_system_msgs__cpp
+[8.425s] [  1%] Built target ament_cmake_python_symlink_autoware_auto_system_msgs
+[8.521s] [  2%] Generating C++ introspection for ROS interfaces
+[10.576s] [  3%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/autoware_auto_system_msgs/msg/detail/autoware_state__type_support.cpp.o
+[11.263s] [  5%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/autoware_auto_system_msgs/msg/detail/hazard_status_stamped__type_support.cpp.o
+[12.048s] [  6%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/autoware_auto_system_msgs/msg/detail/hazard_status__type_support.cpp.o
+[12.959s] [  7%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/autoware_auto_system_msgs/msg/detail/emergency_state__type_support.cpp.o
+[13.676s] [  8%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/autoware_auto_system_msgs/msg/detail/driving_capability__type_support.cpp.o
+[14.445s] [ 10%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/autoware_auto_system_msgs/msg/detail/diagnostic_header__type_support.cpp.o
+[15.165s] [ 11%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/autoware_auto_system_msgs/msg/detail/control_diagnostic__type_support.cpp.o
+[15.921s] [ 12%] Linking CXX shared library libautoware_auto_system_msgs__rosidl_typesupport_introspection_cpp.so
+[16.300s] [ 12%] Built target autoware_auto_system_msgs__rosidl_typesupport_introspection_cpp
+[16.913s] running egg_info
+[16.913s] creating autoware_auto_system_msgs.egg-info
+[16.914s] writing autoware_auto_system_msgs.egg-info/PKG-INFO
+[16.915s] writing dependency_links to autoware_auto_system_msgs.egg-info/dependency_links.txt
+[16.915s] writing top-level names to autoware_auto_system_msgs.egg-info/top_level.txt
+[16.915s] writing manifest file 'autoware_auto_system_msgs.egg-info/SOURCES.txt'
+[16.918s] reading manifest file 'autoware_auto_system_msgs.egg-info/SOURCES.txt'
+[16.919s] writing manifest file 'autoware_auto_system_msgs.egg-info/SOURCES.txt'
+[17.058s] [ 12%] Built target ament_cmake_python_build_autoware_auto_system_msgs_egg
+[17.118s] [ 13%] Generating C++ type support for eProsima Fast-RTPS
+[19.236s] [ 15%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/autoware_auto_system_msgs/msg/detail/dds_fastrtps/autoware_state__type_support.cpp.o
+[19.994s] [ 16%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/autoware_auto_system_msgs/msg/detail/dds_fastrtps/hazard_status_stamped__type_support.cpp.o
+[20.761s] [ 17%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/autoware_auto_system_msgs/msg/detail/dds_fastrtps/hazard_status__type_support.cpp.o
+[21.621s] [ 18%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/autoware_auto_system_msgs/msg/detail/dds_fastrtps/emergency_state__type_support.cpp.o
+[22.323s] [ 20%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/autoware_auto_system_msgs/msg/detail/dds_fastrtps/driving_capability__type_support.cpp.o
+[23.084s] [ 21%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/autoware_auto_system_msgs/msg/detail/dds_fastrtps/diagnostic_header__type_support.cpp.o
+[23.809s] [ 22%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/autoware_auto_system_msgs/msg/detail/dds_fastrtps/control_diagnostic__type_support.cpp.o
+[24.489s] [ 24%] Linking CXX shared library libautoware_auto_system_msgs__rosidl_typesupport_fastrtps_cpp.so
+[24.870s] [ 24%] Built target autoware_auto_system_msgs__rosidl_typesupport_fastrtps_cpp
+[24.971s] [ 25%] Generating C++ type support dispatch for ROS interfaces
+[26.559s] [ 26%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/autoware_auto_system_msgs/msg/autoware_state__type_support.cpp.o
+[27.106s] [ 27%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/autoware_auto_system_msgs/msg/hazard_status_stamped__type_support.cpp.o
+[27.698s] [ 29%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/autoware_auto_system_msgs/msg/hazard_status__type_support.cpp.o
+[28.174s] [ 30%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/autoware_auto_system_msgs/msg/emergency_state__type_support.cpp.o
+[28.708s] [ 31%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/autoware_auto_system_msgs/msg/driving_capability__type_support.cpp.o
+[29.227s] [ 32%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/autoware_auto_system_msgs/msg/diagnostic_header__type_support.cpp.o
+[29.719s] [ 34%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/autoware_auto_system_msgs/msg/control_diagnostic__type_support.cpp.o
+[30.301s] [ 35%] Linking CXX shared library libautoware_auto_system_msgs__rosidl_typesupport_cpp.so
+[30.538s] [ 35%] Built target autoware_auto_system_msgs__rosidl_typesupport_cpp
+[30.620s] [ 36%] Generating C code for ROS interfaces
+[33.998s] [ 37%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_generator_c.dir/rosidl_generator_c/autoware_auto_system_msgs/msg/detail/autoware_state__functions.c.o
+[34.200s] [ 39%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_generator_c.dir/rosidl_generator_c/autoware_auto_system_msgs/msg/detail/hazard_status_stamped__functions.c.o
+[34.382s] [ 40%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_generator_c.dir/rosidl_generator_c/autoware_auto_system_msgs/msg/detail/hazard_status__functions.c.o
+[34.590s] [ 41%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_generator_c.dir/rosidl_generator_c/autoware_auto_system_msgs/msg/detail/emergency_state__functions.c.o
+[34.771s] [ 43%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_generator_c.dir/rosidl_generator_c/autoware_auto_system_msgs/msg/detail/driving_capability__functions.c.o
+[34.944s] [ 44%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_generator_c.dir/rosidl_generator_c/autoware_auto_system_msgs/msg/detail/diagnostic_header__functions.c.o
+[35.108s] [ 45%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_generator_c.dir/rosidl_generator_c/autoware_auto_system_msgs/msg/detail/control_diagnostic__functions.c.o
+[35.299s] [ 46%] Linking C shared library libautoware_auto_system_msgs__rosidl_generator_c.so
+[35.477s] [ 46%] Built target autoware_auto_system_msgs__rosidl_generator_c
+[35.579s] [ 48%] Generating C type support for eProsima Fast-RTPS
+[37.649s] [ 49%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/autoware_auto_system_msgs/msg/detail/autoware_state__type_support_c.cpp.o
+[38.249s] [ 50%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/autoware_auto_system_msgs/msg/detail/hazard_status_stamped__type_support_c.cpp.o
+[38.852s] [ 51%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/autoware_auto_system_msgs/msg/detail/hazard_status__type_support_c.cpp.o
+[39.437s] [ 53%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/autoware_auto_system_msgs/msg/detail/emergency_state__type_support_c.cpp.o
+[39.989s] [ 54%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/autoware_auto_system_msgs/msg/detail/driving_capability__type_support_c.cpp.o
+[40.627s] [ 55%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/autoware_auto_system_msgs/msg/detail/diagnostic_header__type_support_c.cpp.o
+[41.309s] [ 56%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/autoware_auto_system_msgs/msg/detail/control_diagnostic__type_support_c.cpp.o
+[41.911s] [ 58%] Linking CXX shared library libautoware_auto_system_msgs__rosidl_typesupport_fastrtps_c.so
+[42.221s] [ 58%] Built target autoware_auto_system_msgs__rosidl_typesupport_fastrtps_c
+[42.324s] [ 59%] Generating C type support dispatch for ROS interfaces
+[43.807s] [ 60%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_auto_system_msgs/msg/autoware_state__type_support.cpp.o
+[43.970s] [ 62%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_auto_system_msgs/msg/hazard_status_stamped__type_support.cpp.o
+[44.109s] [ 63%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_auto_system_msgs/msg/hazard_status__type_support.cpp.o
+[44.301s] [ 64%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_auto_system_msgs/msg/emergency_state__type_support.cpp.o
+[44.424s] [ 65%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_auto_system_msgs/msg/driving_capability__type_support.cpp.o
+[44.582s] [ 67%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_auto_system_msgs/msg/diagnostic_header__type_support.cpp.o
+[44.724s] [ 68%] Building CXX object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_auto_system_msgs/msg/control_diagnostic__type_support.cpp.o
+[44.867s] [ 69%] Linking CXX shared library libautoware_auto_system_msgs__rosidl_typesupport_c.so
+[45.055s] [ 69%] Built target autoware_auto_system_msgs__rosidl_typesupport_c
+[45.129s] [ 70%] Generating C introspection for ROS interfaces
+[47.057s] [ 72%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/autoware_auto_system_msgs/msg/detail/autoware_state__type_support.c.o
+[47.199s] [ 73%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/autoware_auto_system_msgs/msg/detail/hazard_status_stamped__type_support.c.o
+[47.344s] [ 74%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/autoware_auto_system_msgs/msg/detail/hazard_status__type_support.c.o
+[47.505s] [ 75%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/autoware_auto_system_msgs/msg/detail/emergency_state__type_support.c.o
+[47.660s] [ 77%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/autoware_auto_system_msgs/msg/detail/driving_capability__type_support.c.o
+[47.804s] [ 78%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/autoware_auto_system_msgs/msg/detail/diagnostic_header__type_support.c.o
+[47.950s] [ 79%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/autoware_auto_system_msgs/msg/detail/control_diagnostic__type_support.c.o
+[48.118s] [ 81%] Linking C shared library libautoware_auto_system_msgs__rosidl_typesupport_introspection_c.so
+[48.322s] [ 81%] Built target autoware_auto_system_msgs__rosidl_typesupport_introspection_c
+[48.467s] [ 81%] Built target autoware_auto_system_msgs
+[48.619s] [ 82%] Generating Python code for ROS interfaces
+[51.646s] [ 82%] Built target autoware_auto_system_msgs__py
+[51.809s] [ 83%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_generator_py.dir/rosidl_generator_py/autoware_auto_system_msgs/msg/_autoware_state_s.c.o
+[52.069s] [ 84%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_generator_py.dir/rosidl_generator_py/autoware_auto_system_msgs/msg/_hazard_status_stamped_s.c.o
+[52.312s] [ 86%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_generator_py.dir/rosidl_generator_py/autoware_auto_system_msgs/msg/_hazard_status_s.c.o
+[52.540s] [ 87%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_generator_py.dir/rosidl_generator_py/autoware_auto_system_msgs/msg/_emergency_state_s.c.o
+[52.807s] [ 88%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_generator_py.dir/rosidl_generator_py/autoware_auto_system_msgs/msg/_driving_capability_s.c.o
+[53.046s] [ 89%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_generator_py.dir/rosidl_generator_py/autoware_auto_system_msgs/msg/_diagnostic_header_s.c.o
+[53.286s] [ 91%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_generator_py.dir/rosidl_generator_py/autoware_auto_system_msgs/msg/_control_diagnostic_s.c.o
+[53.551s] [ 92%] Linking C shared library rosidl_generator_py/autoware_auto_system_msgs/libautoware_auto_system_msgs__rosidl_generator_py.so
+[53.767s] [ 92%] Built target autoware_auto_system_msgs__rosidl_generator_py
+[53.930s] [ 93%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/autoware_auto_system_msgs/_autoware_auto_system_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o
+[54.221s] [ 94%] Linking C shared library rosidl_generator_py/autoware_auto_system_msgs/autoware_auto_system_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[54.455s] [ 94%] Built target autoware_auto_system_msgs__rosidl_typesupport_fastrtps_c__pyext
+[54.608s] [ 96%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/autoware_auto_system_msgs/_autoware_auto_system_msgs_s.ep.rosidl_typesupport_c.c.o
+[54.859s] [ 97%] Linking C shared library rosidl_generator_py/autoware_auto_system_msgs/autoware_auto_system_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[55.050s] [ 97%] Built target autoware_auto_system_msgs__rosidl_typesupport_c__pyext
+[55.228s] [ 98%] Building C object CMakeFiles/autoware_auto_system_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/autoware_auto_system_msgs/_autoware_auto_system_msgs_s.ep.rosidl_typesupport_introspection_c.c.o
+[55.527s] [100%] Linking C shared library rosidl_generator_py/autoware_auto_system_msgs/autoware_auto_system_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[55.771s] [100%] Built target autoware_auto_system_msgs__rosidl_typesupport_introspection_c__pyext
+[55.808s] Invoked command in '/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/build/autoware_auto_system_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/build/autoware_auto_system_msgs -- -j16 -l16
+[55.809s] Invoking command in '/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/build/autoware_auto_system_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/build/autoware_auto_system_msgs
+[55.859s] -- Install configuration: ""
+[55.860s] -- Execute custom install script
+[55.860s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/ament_index/resource_index/rosidl_interfaces/autoware_auto_system_msgs
+[55.905s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/autoware_state.h
+[55.944s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/control_diagnostic.h
+[56.015s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/autoware_state__functions.h
+[56.064s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/autoware_state__struct.h
+[56.128s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/autoware_state__type_support.h
+[56.210s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/control_diagnostic__functions.h
+[56.270s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/control_diagnostic__struct.h
+[56.343s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/control_diagnostic__type_support.h
+[56.389s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/diagnostic_header__functions.h
+[56.437s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/diagnostic_header__struct.h
+[56.488s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/diagnostic_header__type_support.h
+[56.539s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/driving_capability__functions.h
+[56.600s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/driving_capability__struct.h
+[56.648s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/driving_capability__type_support.h
+[56.719s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/emergency_state__functions.h
+[56.773s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/emergency_state__struct.h
+[56.816s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/emergency_state__type_support.h
+[56.879s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status__functions.h
+[56.925s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status__struct.h
+[56.988s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status__type_support.h
+[57.049s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status_stamped__functions.h
+[57.091s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status_stamped__struct.h
+[57.146s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status_stamped__type_support.h
+[57.183s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/diagnostic_header.h
+[57.230s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/driving_capability.h
+[57.290s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/emergency_state.h
+[57.340s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/hazard_status.h
+[57.401s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/hazard_status_stamped.h
+[57.453s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/rosidl_generator_c__visibility_control.h
+[57.532s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/environment/library_path.sh
+[57.584s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/environment/library_path.dsv
+[57.621s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/autoware_state__rosidl_typesupport_fastrtps_c.h
+[57.700s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/control_diagnostic__rosidl_typesupport_fastrtps_c.h
+[57.739s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/diagnostic_header__rosidl_typesupport_fastrtps_c.h
+[57.804s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/driving_capability__rosidl_typesupport_fastrtps_c.h
+[57.863s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/emergency_state__rosidl_typesupport_fastrtps_c.h
+[57.907s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status__rosidl_typesupport_fastrtps_c.h
+[57.967s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status_stamped__rosidl_typesupport_fastrtps_c.h
+[58.018s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[58.062s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/autoware_state__rosidl_typesupport_introspection_c.h
+[58.126s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/control_diagnostic__rosidl_typesupport_introspection_c.h
+[58.166s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/diagnostic_header__rosidl_typesupport_introspection_c.h
+[58.211s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/driving_capability__rosidl_typesupport_introspection_c.h
+[58.282s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/emergency_state__rosidl_typesupport_introspection_c.h
+[58.318s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status__rosidl_typesupport_introspection_c.h
+[58.371s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status_stamped__rosidl_typesupport_introspection_c.h
+[58.439s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[58.495s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/autoware_state.hpp
+[58.554s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/control_diagnostic.hpp
+[58.596s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/autoware_state__builder.hpp
+[58.682s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/autoware_state__struct.hpp
+[58.729s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/autoware_state__traits.hpp
+[58.801s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/autoware_state__type_support.hpp
+[58.840s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/control_diagnostic__builder.hpp
+[58.885s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/control_diagnostic__struct.hpp
+[58.952s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/control_diagnostic__traits.hpp
+[59.006s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/control_diagnostic__type_support.hpp
+[59.074s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/diagnostic_header__builder.hpp
+[59.117s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/diagnostic_header__struct.hpp
+[59.195s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/diagnostic_header__traits.hpp
+[59.245s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/diagnostic_header__type_support.hpp
+[59.325s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/driving_capability__builder.hpp
+[59.383s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/driving_capability__struct.hpp
+[59.447s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/driving_capability__traits.hpp
+[59.517s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/driving_capability__type_support.hpp
+[59.588s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/emergency_state__builder.hpp
+[59.635s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/emergency_state__struct.hpp
+[59.677s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/emergency_state__traits.hpp
+[59.754s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/emergency_state__type_support.hpp
+[59.794s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status__builder.hpp
+[59.863s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status__struct.hpp
+[59.928s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status__traits.hpp
+[59.966s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status__type_support.hpp
+[60.015s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status_stamped__builder.hpp
+[60.093s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status_stamped__struct.hpp
+[60.144s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status_stamped__traits.hpp
+[60.228s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status_stamped__type_support.hpp
+[60.267s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/diagnostic_header.hpp
+[60.350s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/driving_capability.hpp
+[60.400s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/emergency_state.hpp
+[60.459s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/hazard_status.hpp
+[60.504s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/hazard_status_stamped.hpp
+[60.575s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[60.645s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/autoware_state__rosidl_typesupport_fastrtps_cpp.hpp
+[60.715s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/control_diagnostic__rosidl_typesupport_fastrtps_cpp.hpp
+[60.791s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/diagnostic_header__rosidl_typesupport_fastrtps_cpp.hpp
+[60.848s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/driving_capability__rosidl_typesupport_fastrtps_cpp.hpp
+[60.906s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/emergency_state__rosidl_typesupport_fastrtps_cpp.hpp
+[60.967s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status__rosidl_typesupport_fastrtps_cpp.hpp
+[61.032s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[61.072s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[61.151s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/autoware_state__rosidl_typesupport_introspection_cpp.hpp
+[61.210s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/control_diagnostic__rosidl_typesupport_introspection_cpp.hpp
+[61.268s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/diagnostic_header__rosidl_typesupport_introspection_cpp.hpp
+[61.310s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/driving_capability__rosidl_typesupport_introspection_cpp.hpp
+[61.372s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/emergency_state__rosidl_typesupport_introspection_cpp.hpp
+[61.455s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status__rosidl_typesupport_introspection_cpp.hpp
+[61.514s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/include/autoware_auto_system_msgs/autoware_auto_system_msgs/msg/detail/hazard_status_stamped__rosidl_typesupport_introspection_cpp.hpp
+[61.595s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/environment/pythonpath.sh
+[61.643s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/environment/pythonpath.dsv
+[61.713s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs-1.0.0-py3.10.egg-info/PKG-INFO
+[61.752s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs-1.0.0-py3.10.egg-info/SOURCES.txt
+[61.806s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs-1.0.0-py3.10.egg-info/dependency_links.txt
+[61.909s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs-1.0.0-py3.10.egg-info/top_level.txt
+[61.965s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/__init__.py
+[62.038s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/_autoware_auto_system_msgs_s.ep.rosidl_typesupport_c.c
+[62.089s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/_autoware_auto_system_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[62.146s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/_autoware_auto_system_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[62.202s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/autoware_auto_system_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[62.266s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/autoware_auto_system_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[62.321s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/autoware_auto_system_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[62.388s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/libautoware_auto_system_msgs__rosidl_generator_py.so
+[62.442s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/__init__.py
+[62.498s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_autoware_state.py
+[62.560s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_autoware_state_s.c
+[62.608s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_control_diagnostic.py
+[62.677s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_control_diagnostic_s.c
+[62.716s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_diagnostic_header.py
+[62.797s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_diagnostic_header_s.c
+[62.868s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_driving_capability.py
+[62.946s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_driving_capability_s.c
+[63.013s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_emergency_state.py
+[63.095s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_emergency_state_s.c
+[63.151s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_hazard_status.py
+[63.186s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_hazard_status_s.c
+[63.255s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_hazard_status_stamped.py
+[63.302s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_hazard_status_stamped_s.c
+[63.342s] -- Up-to-date symlink: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/autoware_auto_system_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[63.343s] -- Up-to-date symlink: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/autoware_auto_system_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[63.343s] -- Up-to-date symlink: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/autoware_auto_system_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[63.344s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/msg/AutowareState.idl
+[63.420s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/msg/ControlDiagnostic.idl
+[63.466s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/msg/DiagnosticHeader.idl
+[63.547s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/msg/DrivingCapability.idl
+[63.587s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/msg/EmergencyState.idl
+[63.672s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/msg/HazardStatus.idl
+[63.713s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/msg/HazardStatusStamped.idl
+[63.798s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/ament_index/resource_index/package_run_dependencies/autoware_auto_system_msgs
+[63.854s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/ament_index/resource_index/parent_prefix_path/autoware_auto_system_msgs
+[63.902s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/environment/ament_prefix_path.sh
+[63.965s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/environment/ament_prefix_path.dsv
+[64.014s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/environment/path.sh
+[64.068s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/environment/path.dsv
+[64.167s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/local_setup.bash
+[64.253s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/local_setup.sh
+[64.317s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/local_setup.zsh
+[64.365s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/local_setup.dsv
+[64.432s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/package.dsv
+[64.495s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/ament_index/resource_index/packages/autoware_auto_system_msgs
+[64.569s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/rosidl_cmake-extras.cmake
+[64.622s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[64.696s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[64.743s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[64.831s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[64.892s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[64.967s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[65.004s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/autoware_auto_system_msgsConfig.cmake
+[65.048s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/autoware_auto_system_msgsConfig-version.cmake
+[65.119s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/package.xml
+[65.158s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/lib/libautoware_auto_system_msgs__rosidl_generator_c.so
+[65.158s] -- Set runtime path of "/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/lib/libautoware_auto_system_msgs__rosidl_generator_c.so" to ""
+[65.158s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/lib/libautoware_auto_system_msgs__rosidl_typesupport_fastrtps_c.so
+[65.159s] -- Set runtime path of "/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/lib/libautoware_auto_system_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[65.159s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/lib/libautoware_auto_system_msgs__rosidl_typesupport_introspection_c.so
+[65.159s] -- Set runtime path of "/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/lib/libautoware_auto_system_msgs__rosidl_typesupport_introspection_c.so" to ""
+[65.159s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/lib/libautoware_auto_system_msgs__rosidl_typesupport_c.so
+[65.159s] -- Set runtime path of "/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/lib/libautoware_auto_system_msgs__rosidl_typesupport_c.so" to ""
+[65.159s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/lib/libautoware_auto_system_msgs__rosidl_typesupport_fastrtps_cpp.so
+[65.160s] -- Set runtime path of "/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/lib/libautoware_auto_system_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[65.160s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/lib/libautoware_auto_system_msgs__rosidl_typesupport_introspection_cpp.so
+[65.160s] -- Set runtime path of "/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/lib/libautoware_auto_system_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[65.160s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/lib/libautoware_auto_system_msgs__rosidl_typesupport_cpp.so
+[65.160s] -- Set runtime path of "/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/lib/libautoware_auto_system_msgs__rosidl_typesupport_cpp.so" to ""
+[65.260s] Listing '/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs'...
+[65.260s] Compiling '/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/__init__.py'...
+[65.260s] Listing '/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg'...
+[65.260s] Compiling '/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/__init__.py'...
+[65.260s] Compiling '/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_autoware_state.py'...
+[65.260s] Compiling '/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_control_diagnostic.py'...
+[65.260s] Compiling '/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_diagnostic_header.py'...
+[65.260s] Compiling '/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_driving_capability.py'...
+[65.260s] Compiling '/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_emergency_state.py'...
+[65.260s] Compiling '/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_hazard_status.py'...
+[65.261s] Compiling '/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages/autoware_auto_system_msgs/msg/_hazard_status_stamped.py'...
+[65.268s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/lib/libautoware_auto_system_msgs__rosidl_generator_py.so
+[65.271s] -- Set runtime path of "/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/lib/libautoware_auto_system_msgs__rosidl_generator_py.so" to ""
+[65.271s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/export_autoware_auto_system_msgs__rosidl_generator_cExport.cmake
+[65.271s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/export_autoware_auto_system_msgs__rosidl_generator_cExport-noconfig.cmake
+[65.272s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/export_autoware_auto_system_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[65.272s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/export_autoware_auto_system_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[65.272s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/autoware_auto_system_msgs__rosidl_typesupport_introspection_cExport.cmake
+[65.272s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/autoware_auto_system_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[65.272s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/autoware_auto_system_msgs__rosidl_typesupport_cExport.cmake
+[65.272s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/autoware_auto_system_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[65.276s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/export_autoware_auto_system_msgs__rosidl_generator_cppExport.cmake
+[65.276s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/export_autoware_auto_system_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[65.276s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/export_autoware_auto_system_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[65.276s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/autoware_auto_system_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[65.276s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/autoware_auto_system_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[65.277s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/autoware_auto_system_msgs__rosidl_typesupport_cppExport.cmake
+[65.277s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/autoware_auto_system_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[65.277s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/export_autoware_auto_system_msgs__rosidl_generator_pyExport.cmake
+[65.277s] -- Installing: /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs/share/autoware_auto_system_msgs/cmake/export_autoware_auto_system_msgs__rosidl_generator_pyExport-noconfig.cmake
+[65.277s] Invoked command in '/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/build/autoware_auto_system_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/build/autoware_auto_system_msgs

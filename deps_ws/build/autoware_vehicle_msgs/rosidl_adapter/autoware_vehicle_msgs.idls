@@ -1,0 +1,11 @@
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_vehicle_msgs/rosidl_adapter/autoware_vehicle_msgs:msg/ControlModeReport.idl
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_vehicle_msgs/rosidl_adapter/autoware_vehicle_msgs:msg/Engage.idl
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_vehicle_msgs/rosidl_adapter/autoware_vehicle_msgs:msg/GearCommand.idl
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_vehicle_msgs/rosidl_adapter/autoware_vehicle_msgs:msg/GearReport.idl
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_vehicle_msgs/rosidl_adapter/autoware_vehicle_msgs:msg/HazardLightsCommand.idl
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_vehicle_msgs/rosidl_adapter/autoware_vehicle_msgs:msg/HazardLightsReport.idl
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_vehicle_msgs/rosidl_adapter/autoware_vehicle_msgs:msg/SteeringReport.idl
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_vehicle_msgs/rosidl_adapter/autoware_vehicle_msgs:msg/TurnIndicatorsCommand.idl
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_vehicle_msgs/rosidl_adapter/autoware_vehicle_msgs:msg/TurnIndicatorsReport.idl
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_vehicle_msgs/rosidl_adapter/autoware_vehicle_msgs:msg/VelocityReport.idl
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_vehicle_msgs/rosidl_adapter/autoware_vehicle_msgs:srv/ControlModeCommand.idl

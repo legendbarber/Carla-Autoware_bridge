@@ -1,0 +1,1 @@
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/build/autoware_auto_mapping_msgs/rosidl_generator_cpp/autoware_auto_mapping_msgs/msg/detail/map_primitive__type_support.hpp

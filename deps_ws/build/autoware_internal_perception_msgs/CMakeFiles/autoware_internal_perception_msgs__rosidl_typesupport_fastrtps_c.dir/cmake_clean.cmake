@@ -1,0 +1,13 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/autoware_internal_perception_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/autoware_internal_perception_msgs/msg/detail/segmentation_mask__type_support_c.cpp.o"
+  "CMakeFiles/autoware_internal_perception_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/autoware_internal_perception_msgs/msg/detail/segmentation_mask__type_support_c.cpp.o.d"
+  "libautoware_internal_perception_msgs__rosidl_typesupport_fastrtps_c.pdb"
+  "libautoware_internal_perception_msgs__rosidl_typesupport_fastrtps_c.so"
+  "rosidl_typesupport_fastrtps_c/autoware_internal_perception_msgs/msg/detail/segmentation_mask__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/autoware_internal_perception_msgs/msg/detail/segmentation_mask__type_support_c.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/autoware_internal_perception_msgs__rosidl_typesupport_fastrtps_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

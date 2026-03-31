@@ -1,0 +1,79 @@
+[0.129s] Invoking command in '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_utils_rclcpp': AMENT_PREFIX_PATH=/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_cmake:/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_lint_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_cmake:/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_lint_common:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_vehicle_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_planning_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_perception_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_mapping_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_geometry_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_control_msgs:/opt/ros/humble /usr/bin/cmake /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/src/autoware_utils/autoware_utils_rclcpp -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp
+[0.570s] -- The C compiler identification is GNU 11.4.0
+[0.865s] -- The CXX compiler identification is GNU 11.4.0
+[0.939s] -- Detecting C compiler ABI info
+[1.499s] -- Detecting C compiler ABI info - done
+[1.519s] -- Check for working C compiler: /usr/lib/ccache/gcc - skipped
+[1.519s] -- Detecting C compile features
+[1.520s] -- Detecting C compile features - done
+[1.531s] -- Detecting CXX compiler ABI info
+[2.097s] -- Detecting CXX compiler ABI info - done
+[2.142s] -- Check for working CXX compiler: /usr/lib/ccache/g++ - skipped
+[2.153s] -- Detecting CXX compile features
+[2.153s] -- Detecting CXX compile features - done
+[2.153s] -- Found autoware_cmake: 1.1.0 (/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_cmake/share/autoware_cmake/cmake)
+[2.811s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[3.003s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.137s] -- Found TinyXML2: /usr/lib/x86_64-linux-gnu/libtinyxml2.so  
+[3.471s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[3.484s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[3.524s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[3.569s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.604s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.738s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[3.753s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[3.826s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[3.843s] -- Looking for pthread.h
+[4.481s] -- Looking for pthread.h - found
+[4.481s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[5.054s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[5.060s] -- Found Threads: TRUE  
+[5.290s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.337s] -- Found gtest sources under '/opt/ros/humble/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[5.350s] In this package, headers install destination is set to `include` by ament_auto_package. It is recommended to install `include/autoware_utils_rclcpp` instead and will be the default behavior of ament_auto_package from ROS 2 Kilted Kaiju. On distributions before Kilted, ament_auto_package behaves the same way when you use USE_SCOPED_HEADER_INSTALL_DIR option.
+[5.369s] -- Added test 'copyright' to check source files copyright and LICENSE
+[5.369s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.380s] -- Configured cppcheck include dirs: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/src/autoware_utils/autoware_utils_rclcpp/include
+[5.380s] -- Configured cppcheck exclude dirs and/or files: 
+[5.397s] -- Added test 'lint_cmake' to check CMake code style
+[5.397s] -- Added test 'xmllint' to check XML markup files
+[5.406s] -- Configuring done
+[5.442s] -- Generating done
+[5.450s] -- Build files have been written to: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_utils_rclcpp
+[5.478s] Invoked command in '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_utils_rclcpp' returned '0': AMENT_PREFIX_PATH=/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_cmake:/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_lint_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_cmake:/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_lint_common:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_vehicle_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_planning_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_perception_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_mapping_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_geometry_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_control_msgs:/opt/ros/humble /usr/bin/cmake /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/src/autoware_utils/autoware_utils_rclcpp -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp
+[5.479s] Invoking command in '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_utils_rclcpp': AMENT_PREFIX_PATH=/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_cmake:/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_lint_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_cmake:/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_lint_common:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_vehicle_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_planning_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_perception_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_mapping_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_geometry_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_control_msgs:/opt/ros/humble /usr/bin/cmake --build /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_utils_rclcpp -- -j16 -l16
+[6.043s] [ 12%] Building CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o
+[8.372s] [ 25%] Linking CXX static library libgtest_main.a
+[8.876s] [ 25%] Built target gtest_main
+[9.218s] [ 37%] Building CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o
+[16.570s] [ 50%] Linking CXX static library libgtest.a
+[17.031s] [ 50%] Built target gtest
+[17.300s] [ 62%] Building CXX object CMakeFiles/test_autoware_utils_rclcpp.dir/test/cases/parameter.cpp.o
+[25.893s] [ 75%] Building CXX object CMakeFiles/test_autoware_utils_rclcpp.dir/test/main.cpp.o
+[33.343s] [ 87%] Building CXX object CMakeFiles/test_autoware_utils_rclcpp.dir/test/cases/polling_subscriber.cpp.o
+[52.229s] [100%] Linking CXX executable test_autoware_utils_rclcpp
+[53.845s] [100%] Built target test_autoware_utils_rclcpp
+[54.009s] Invoked command in '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_utils_rclcpp' returned '0': AMENT_PREFIX_PATH=/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_cmake:/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_lint_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_cmake:/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_lint_common:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_vehicle_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_planning_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_perception_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_mapping_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_geometry_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_control_msgs:/opt/ros/humble /usr/bin/cmake --build /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_utils_rclcpp -- -j16 -l16
+[54.015s] Invoking command in '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_utils_rclcpp': AMENT_PREFIX_PATH=/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_cmake:/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_lint_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_cmake:/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_lint_common:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_vehicle_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_planning_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_perception_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_mapping_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_geometry_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_control_msgs:/opt/ros/humble /usr/bin/cmake --install /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_utils_rclcpp
+[54.068s] -- Install configuration: ""
+[54.069s] -- Execute custom install script
+[54.070s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp/include/autoware_utils_rclcpp/parameter.hpp
+[54.143s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp/include/autoware_utils_rclcpp/polling_subscriber.hpp
+[54.204s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp/share/ament_index/resource_index/package_run_dependencies/autoware_utils_rclcpp
+[54.294s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp/share/ament_index/resource_index/parent_prefix_path/autoware_utils_rclcpp
+[54.359s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp/share/autoware_utils_rclcpp/environment/ament_prefix_path.sh
+[54.468s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp/share/autoware_utils_rclcpp/environment/ament_prefix_path.dsv
+[54.546s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp/share/autoware_utils_rclcpp/environment/path.sh
+[54.629s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp/share/autoware_utils_rclcpp/environment/path.dsv
+[54.699s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp/share/autoware_utils_rclcpp/local_setup.bash
+[54.784s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp/share/autoware_utils_rclcpp/local_setup.sh
+[54.845s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp/share/autoware_utils_rclcpp/local_setup.zsh
+[54.942s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp/share/autoware_utils_rclcpp/local_setup.dsv
+[54.983s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp/share/autoware_utils_rclcpp/package.dsv
+[55.063s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp/share/ament_index/resource_index/packages/autoware_utils_rclcpp
+[55.120s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp/share/autoware_utils_rclcpp/cmake/ament_cmake_export_dependencies-extras.cmake
+[55.168s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp/share/autoware_utils_rclcpp/cmake/ament_cmake_export_include_directories-extras.cmake
+[55.314s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp/share/autoware_utils_rclcpp/cmake/autoware_utils_rclcppConfig.cmake
+[55.399s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp/share/autoware_utils_rclcpp/cmake/autoware_utils_rclcppConfig-version.cmake
+[55.475s] -- Symlinking: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_utils_rclcpp/share/autoware_utils_rclcpp/package.xml
+[55.534s] Invoked command in '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_utils_rclcpp' returned '0': AMENT_PREFIX_PATH=/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_cmake:/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_lint_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_cmake:/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_lint_common:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_vehicle_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_system_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_planning_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_perception_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_mapping_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_geometry_msgs:/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/install/autoware_auto_control_msgs:/opt/ros/humble /usr/bin/cmake --install /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_utils_rclcpp

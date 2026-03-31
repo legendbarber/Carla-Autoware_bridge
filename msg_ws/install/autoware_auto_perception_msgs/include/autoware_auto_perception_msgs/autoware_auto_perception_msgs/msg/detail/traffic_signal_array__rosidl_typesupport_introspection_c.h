@@ -1,0 +1,1 @@
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/msg_ws/build/autoware_auto_perception_msgs/rosidl_typesupport_introspection_c/autoware_auto_perception_msgs/msg/detail/traffic_signal_array__rosidl_typesupport_introspection_c.h

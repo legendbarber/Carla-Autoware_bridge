@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/control_mode_report__type_support.cpp.o"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/control_mode_report__type_support.cpp.o.d"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/engage__type_support.cpp.o"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/engage__type_support.cpp.o.d"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/gear_command__type_support.cpp.o"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/gear_command__type_support.cpp.o.d"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/gear_report__type_support.cpp.o"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/gear_report__type_support.cpp.o.d"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/hazard_lights_command__type_support.cpp.o"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/hazard_lights_command__type_support.cpp.o.d"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/hazard_lights_report__type_support.cpp.o"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/hazard_lights_report__type_support.cpp.o.d"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/steering_report__type_support.cpp.o"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/steering_report__type_support.cpp.o.d"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/turn_indicators_command__type_support.cpp.o"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/turn_indicators_command__type_support.cpp.o.d"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/turn_indicators_report__type_support.cpp.o"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/turn_indicators_report__type_support.cpp.o.d"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/velocity_report__type_support.cpp.o"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/msg/velocity_report__type_support.cpp.o.d"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/srv/control_mode_command__type_support.cpp.o"
+  "CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/autoware_vehicle_msgs/srv/control_mode_command__type_support.cpp.o.d"
+  "libautoware_vehicle_msgs__rosidl_typesupport_c.pdb"
+  "libautoware_vehicle_msgs__rosidl_typesupport_c.so"
+  "rosidl_typesupport_c/autoware_vehicle_msgs/msg/control_mode_report__type_support.cpp"
+  "rosidl_typesupport_c/autoware_vehicle_msgs/msg/engage__type_support.cpp"
+  "rosidl_typesupport_c/autoware_vehicle_msgs/msg/gear_command__type_support.cpp"
+  "rosidl_typesupport_c/autoware_vehicle_msgs/msg/gear_report__type_support.cpp"
+  "rosidl_typesupport_c/autoware_vehicle_msgs/msg/hazard_lights_command__type_support.cpp"
+  "rosidl_typesupport_c/autoware_vehicle_msgs/msg/hazard_lights_report__type_support.cpp"
+  "rosidl_typesupport_c/autoware_vehicle_msgs/msg/steering_report__type_support.cpp"
+  "rosidl_typesupport_c/autoware_vehicle_msgs/msg/turn_indicators_command__type_support.cpp"
+  "rosidl_typesupport_c/autoware_vehicle_msgs/msg/turn_indicators_report__type_support.cpp"
+  "rosidl_typesupport_c/autoware_vehicle_msgs/msg/velocity_report__type_support.cpp"
+  "rosidl_typesupport_c/autoware_vehicle_msgs/srv/control_mode_command__type_support.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/autoware_vehicle_msgs__rosidl_typesupport_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

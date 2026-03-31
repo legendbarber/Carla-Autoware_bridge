@@ -1,0 +1,85 @@
+The MPI test test_mpi for C in mode normal failed to compile with the following output:
+Change Dir: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_point_types/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_482ab/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_482ab.dir/build.make CMakeFiles/cmTC_482ab.dir/build
+gmake[1]: Entering directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_point_types/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_482ab.dir/test_mpi.c.o
+/usr/lib/ccache/gcc  -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi  -o CMakeFiles/cmTC_482ab.dir/test_mpi.c.o -c /usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c
+/usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c:1:10: fatal error: mpi.h: No such file or directory
+    1 | #include <mpi.h>
+      |          ^~~~~~~
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_482ab.dir/build.make:78: CMakeFiles/cmTC_482ab.dir/test_mpi.c.o] Error 1
+gmake[1]: Leaving directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_point_types/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_482ab/fast] Error 2
+
+
+
+The MPI test test_mpi for C in mode normal failed to compile with the following output:
+Change Dir: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_point_types/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_5cb1a/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_5cb1a.dir/build.make CMakeFiles/cmTC_5cb1a.dir/build
+gmake[1]: Entering directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_point_types/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5cb1a.dir/test_mpi.c.o
+/usr/lib/ccache/gcc  -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi  -o CMakeFiles/cmTC_5cb1a.dir/test_mpi.c.o -c /usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c
+/usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c:1:10: fatal error: mpi.h: No such file or directory
+    1 | #include <mpi.h>
+      |          ^~~~~~~
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_5cb1a.dir/build.make:78: CMakeFiles/cmTC_5cb1a.dir/test_mpi.c.o] Error 1
+gmake[1]: Leaving directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_point_types/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_5cb1a/fast] Error 2
+
+
+
+The MPI test test_mpi for C in mode normal failed to compile with the following output:
+Change Dir: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_point_types/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_2f215/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_2f215.dir/build.make CMakeFiles/cmTC_2f215.dir/build
+gmake[1]: Entering directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_point_types/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2f215.dir/test_mpi.c.o
+/usr/lib/ccache/gcc  -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi  -o CMakeFiles/cmTC_2f215.dir/test_mpi.c.o -c /usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c
+/usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c:1:10: fatal error: mpi.h: No such file or directory
+    1 | #include <mpi.h>
+      |          ^~~~~~~
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_2f215.dir/build.make:78: CMakeFiles/cmTC_2f215.dir/test_mpi.c.o] Error 1
+gmake[1]: Leaving directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_point_types/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_2f215/fast] Error 2
+
+
+
+The MPI test test_mpi for C in mode normal failed to compile with the following output:
+Change Dir: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_point_types/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_6970c/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_6970c.dir/build.make CMakeFiles/cmTC_6970c.dir/build
+gmake[1]: Entering directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_point_types/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6970c.dir/test_mpi.c.o
+/usr/lib/ccache/gcc  -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi  -o CMakeFiles/cmTC_6970c.dir/test_mpi.c.o -c /usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c
+/usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c:1:10: fatal error: mpi.h: No such file or directory
+    1 | #include <mpi.h>
+      |          ^~~~~~~
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_6970c.dir/build.make:78: CMakeFiles/cmTC_6970c.dir/test_mpi.c.o] Error 1
+gmake[1]: Leaving directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_point_types/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_6970c/fast] Error 2
+
+
+
+The MPI test test_mpi for C in mode normal failed to compile with the following output:
+Change Dir: /mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_point_types/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_981f2/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_981f2.dir/build.make CMakeFiles/cmTC_981f2.dir/build
+gmake[1]: Entering directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_point_types/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_981f2.dir/test_mpi.c.o
+/usr/lib/ccache/gcc  -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi  -o CMakeFiles/cmTC_981f2.dir/test_mpi.c.o -c /usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c
+/usr/share/cmake-3.22/Modules/FindMPI/test_mpi.c:1:10: fatal error: mpi.h: No such file or directory
+    1 | #include <mpi.h>
+      |          ^~~~~~~
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_981f2.dir/build.make:78: CMakeFiles/cmTC_981f2.dir/test_mpi.c.o] Error 1
+gmake[1]: Leaving directory '/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_point_types/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_981f2/fast] Error 2
+
+
+

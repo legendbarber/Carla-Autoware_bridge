@@ -1,0 +1,6 @@
+msg/MissionRemainingDistanceTime.idl
+msg/MissionRemainingDistanceTime.msg
+msg/PublishedTime.idl
+msg/PublishedTime.msg
+msg/ResourceUsageReport.idl
+msg/ResourceUsageReport.msg

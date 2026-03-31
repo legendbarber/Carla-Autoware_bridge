@@ -1,0 +1,6 @@
+source;share/carla_autonomy_bridge/hook/pythonpath.ps1
+source;share/carla_autonomy_bridge/hook/pythonpath.dsv
+source;share/carla_autonomy_bridge/hook/pythonpath.sh
+source;../../build/carla_autonomy_bridge/share/carla_autonomy_bridge/hook/pythonpath_develop.ps1
+source;../../build/carla_autonomy_bridge/share/carla_autonomy_bridge/hook/pythonpath_develop.dsv
+source;../../build/carla_autonomy_bridge/share/carla_autonomy_bridge/hook/pythonpath_develop.sh

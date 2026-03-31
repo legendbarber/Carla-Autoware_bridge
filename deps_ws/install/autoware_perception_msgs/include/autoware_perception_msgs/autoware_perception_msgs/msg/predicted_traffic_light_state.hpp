@@ -1,0 +1,1 @@
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_perception_msgs/rosidl_generator_cpp/autoware_perception_msgs/msg/predicted_traffic_light_state.hpp

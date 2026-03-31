@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_interpolation/libautoware_interpolation.so" "TARGETS" "autoware_interpolation" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

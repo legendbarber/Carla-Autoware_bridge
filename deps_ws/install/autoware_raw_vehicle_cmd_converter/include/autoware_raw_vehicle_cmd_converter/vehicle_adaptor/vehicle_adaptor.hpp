@@ -1,0 +1,1 @@
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/src/autoware_raw_vehicle_cmd_converter/include/autoware_raw_vehicle_cmd_converter/vehicle_adaptor/vehicle_adaptor.hpp

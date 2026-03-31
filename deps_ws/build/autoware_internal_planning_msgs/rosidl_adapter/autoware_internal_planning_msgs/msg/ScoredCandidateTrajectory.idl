@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from autoware_internal_planning_msgs/msg/ScoredCandidateTrajectory.msg
+// generated code does not contain a copyright notice
+
+#include "autoware_internal_planning_msgs/msg/CandidateTrajectory.idl"
+
+module autoware_internal_planning_msgs {
+  module msg {
+    struct ScoredCandidateTrajectory {
+      autoware_internal_planning_msgs::msg::CandidateTrajectory candidate_trajectory;
+
+      @verbatim (language="comment", text=
+        "Score should be in [0.0, 1.0]")
+      float score;
+    };
+  };
+};

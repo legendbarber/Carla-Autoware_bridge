@@ -1,0 +1,28 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from autoware_internal_perception_msgs/msg/SegmentationMask.msg
+// generated code does not contain a copyright notice
+
+#include "autoware_perception_msgs/msg/ObjectClassification.idl"
+#include "sensor_msgs/msg/Image.idl"
+#include "std_msgs/msg/Header.idl"
+
+module autoware_internal_perception_msgs {
+  module msg {
+    struct SegmentationMask {
+      std_msgs::msg::Header header;
+
+      @verbatim (language="comment", text=
+        "It represent map between instance segmentation mask and labels" "\n"
+        "The pixel intensities in mask's starts with 1 (pixel value 0 represent pixel is not belong any object)" "\n"
+        "    `classification[0]` returns the `label_id` for pixels with an intensity value of `1` in the mask." "\n"
+        "    `classification[1]` returns the `label_id` for pixels with an intensity value of `2` in the mask." "\n"
+        "    ..." "\n"
+        "The relationship between pixels and label IDs continues in this way.")
+      sequence<autoware_perception_msgs::msg::ObjectClassification> classification;
+
+      @verbatim (language="comment", text=
+        "Mask image")
+      sensor_msgs::msg::Image image;
+    };
+  };
+};

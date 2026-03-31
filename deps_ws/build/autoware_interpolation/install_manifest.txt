@@ -1,0 +1,6 @@
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_interpolation/include/autoware/interpolation/spline_interpolation_points_2d.hpp
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_interpolation/include/autoware/interpolation/spherical_linear_interpolation.hpp
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_interpolation/include/autoware/interpolation/zero_order_hold.hpp
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_interpolation/include/autoware/interpolation/spline_interpolation.hpp
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_interpolation/include/autoware/interpolation/interpolation_utils.hpp
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/install/autoware_interpolation/include/autoware/interpolation/linear_interpolation.hpp

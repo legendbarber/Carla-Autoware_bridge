@@ -1,0 +1,1 @@
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_adapi_v1_msgs/rosidl_generator_c/autoware_adapi_v1_msgs/srv/set_cooperation_policies.h

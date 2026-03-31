@@ -1,0 +1,1 @@
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_perception_msgs/ament_cmake_core/autoware_perception_msgsConfig-version.cmake

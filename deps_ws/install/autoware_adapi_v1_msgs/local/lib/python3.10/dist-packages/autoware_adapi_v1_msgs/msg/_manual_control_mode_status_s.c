@@ -1,0 +1,1 @@
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_adapi_v1_msgs/rosidl_generator_py/autoware_adapi_v1_msgs/msg/_manual_control_mode_status_s.c

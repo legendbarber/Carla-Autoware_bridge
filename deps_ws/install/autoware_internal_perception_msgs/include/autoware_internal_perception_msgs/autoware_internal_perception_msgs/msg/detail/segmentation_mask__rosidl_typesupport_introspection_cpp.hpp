@@ -1,0 +1,1 @@
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_internal_perception_msgs/rosidl_typesupport_introspection_cpp/autoware_internal_perception_msgs/msg/detail/segmentation_mask__rosidl_typesupport_introspection_cpp.hpp

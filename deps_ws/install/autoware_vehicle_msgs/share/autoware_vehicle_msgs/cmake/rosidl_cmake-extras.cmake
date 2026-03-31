@@ -1,0 +1,1 @@
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_vehicle_msgs/rosidl_cmake/rosidl_cmake-extras.cmake

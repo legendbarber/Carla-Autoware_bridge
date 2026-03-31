@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from autoware_internal_debug_msgs/srv/String.srv
+// generated code does not contain a copyright notice
+
+
+module autoware_internal_debug_msgs {
+  module srv {
+    @verbatim (language="comment", text=
+      "Input string data for debug operations")
+    struct String_Request {
+      string data;
+    };
+    struct String_Response {
+      boolean success;
+    };
+  };
+};

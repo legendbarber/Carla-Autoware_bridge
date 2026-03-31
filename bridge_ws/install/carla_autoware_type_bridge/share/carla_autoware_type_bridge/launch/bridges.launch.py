@@ -1,0 +1,1 @@
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/bridge_ws/src/carla_autoware_type_bridge/launch/bridges.launch.py

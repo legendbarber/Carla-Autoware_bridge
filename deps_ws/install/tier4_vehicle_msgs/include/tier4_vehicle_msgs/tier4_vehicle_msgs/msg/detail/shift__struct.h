@@ -1,0 +1,1 @@
+/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/tier4_vehicle_msgs/rosidl_generator_c/tier4_vehicle_msgs/msg/detail/shift__struct.h

@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from autoware_internal_planning_msgs/msg/CandidateTrajectory.msg
+// generated code does not contain a copyright notice
+
+#include "autoware_planning_msgs/msg/TrajectoryPoint.idl"
+#include "std_msgs/msg/Header.idl"
+#include "unique_identifier_msgs/msg/UUID.idl"
+
+module autoware_internal_planning_msgs {
+  module msg {
+    struct CandidateTrajectory {
+      std_msgs::msg::Header header;
+
+      unique_identifier_msgs::msg::UUID generator_id;
+
+      sequence<autoware_planning_msgs::msg::TrajectoryPoint> points;
+    };
+  };
+};

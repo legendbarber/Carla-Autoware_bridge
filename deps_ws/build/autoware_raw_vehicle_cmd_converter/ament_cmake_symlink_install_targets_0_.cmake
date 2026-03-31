@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/mnt/hdd/autonomy/ws/Carla-autoware_interface/deps_ws/build/autoware_raw_vehicle_cmd_converter/autoware_raw_vehicle_cmd_converter_node" "TARGETS" "autoware_raw_vehicle_cmd_converter_node" "DESTINATION" "lib/autoware_raw_vehicle_cmd_converter")
