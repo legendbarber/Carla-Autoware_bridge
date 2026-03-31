@@ -45,7 +45,8 @@ source "$(pwd)/autoware_carla_interface/install/local_setup.bash"
 ### 8. vehicle
 - run.sh : launch_vehicle_interface:=true use_sim_time:=true
 - sensor_kit_calibration.yaml : velodyne_top_base_link.yaw 1.575 -> 0
-
+- /path/to/vehicle_module/install/sample_vehicle_description/share/sample_vehicle_description/config/* : sensors_calibration.yaml파일, sensor_kit_calibration.yaml파일 각 커스텀 센서 재원에 맞게 수정 -> '4. 차량 재원 참고 레퍼런스' 참고
+- /path/to/vehicle_module/install/individual_params/share/individual_params/config/default/sample_sensor_kit/* : vehicle_info.param.yaml파일, mirror.param.yaml파일 차량 재원에 맞게 수정 -> '4. 차량 재원 참고 레퍼런스' 참고
 
 ---
 
